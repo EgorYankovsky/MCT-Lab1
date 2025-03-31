@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Mesh\\Mesh3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\InputAreaConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Data\\Input\\InputArea.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Data\\Input\\InputArea.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\IncludeArea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\IncludeArea.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\Cell3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MainHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:MainHeader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputAreaConfig.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h",
+              "RelativeDocumentMoniker": "Structure\\InputAreaConfig.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h",
+              "RelativeToolTip": "Structure\\InputAreaConfig.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T10:35:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cell3D.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h",
+              "RelativeDocumentMoniker": "Structure\\Cell3D.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h",
+              "RelativeToolTip": "Structure\\Cell3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T10:24:42.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncludeArea.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\IncludeArea.h",
+              "RelativeDocumentMoniker": "Structure\\IncludeArea.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\IncludeArea.h",
+              "RelativeToolTip": "Structure\\IncludeArea.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T10:10:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Point.h",
+              "RelativeDocumentMoniker": "Structure\\Point.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Point.h",
+              "RelativeToolTip": "Structure\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T10:09:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mesh3D.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp",
+              "RelativeDocumentMoniker": "Mesh\\Mesh3D.cpp",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp",
+              "RelativeToolTip": "Mesh\\Mesh3D.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T09:10:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mesh3D.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h",
+              "RelativeDocumentMoniker": "Mesh\\Mesh3D.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h",
+              "RelativeToolTip": "Mesh\\Mesh3D.h",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T09:10:23.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputArea.txt",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Data\\Input\\InputArea.txt",
+              "RelativeDocumentMoniker": "Data\\Input\\InputArea.txt",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Data\\Input\\InputArea.txt",
+              "RelativeToolTip": "Data\\Input\\InputArea.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-31T08:45:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainHeader.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MainHeader.h",
+              "RelativeDocumentMoniker": "MainHeader.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MainHeader.h",
+              "RelativeToolTip": "MainHeader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T08:22:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laba.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp",
+              "RelativeDocumentMoniker": "Laba.cpp",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp",
+              "RelativeToolTip": "Laba.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T11:27:55.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

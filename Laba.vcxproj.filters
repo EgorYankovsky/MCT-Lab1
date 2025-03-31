@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Data">
+      <UniqueIdentifier>{2f0c82e3-d9e0-4172-8c94-1b09dd29b491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Data\Input">
+      <UniqueIdentifier>{ffbba644-0d13-4c34-b086-2566266bfaeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Data\Output">
+      <UniqueIdentifier>{97937bb9-1bd7-46be-b745-00fc4ce5ee8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Mesh">
+      <UniqueIdentifier>{b8a614d2-f292-4b33-8547-26fc652bbf3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Mesh">
+      <UniqueIdentifier>{8db50bd8-960f-43f6-9130-3218b6b83330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Structure">
+      <UniqueIdentifier>{96296728-2cb9-406a-b01c-de1273f3db4e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Laba.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\Mesh3D.cpp">
+      <Filter>Исходные файлы\Mesh</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainHeader.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\Mesh3D.h">
+      <Filter>Файлы заголовков\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\IncludeArea.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\InputAreaConfig.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\Point.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\Cell3D.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Data\Input\InputArea.txt">
+      <Filter>Файлы ресурсов\Data\Input</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
