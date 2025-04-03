@@ -17,6 +17,8 @@ private:
 	std::vector<Cell3D> _cells;
 
 	// Add data for includes here.
+
+	bool is_cell_inside_include(std::array<Point*, 8> points_int_refs, IncludeArea arr);
 public:
 	Mesh3D() {
 		_x = {};

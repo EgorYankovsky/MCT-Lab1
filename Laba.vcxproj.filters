@@ -31,6 +31,12 @@
     <Filter Include="Файлы заголовков\Structure">
       <UniqueIdentifier>{96296728-2cb9-406a-b01c-de1273f3db4e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Файлы заголовков\Tasks">
+      <UniqueIdentifier>{4ee482d6-e0ef-4f80-9b68-5fb16c00d093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Tasks">
+      <UniqueIdentifier>{c0c61d1a-40e9-4ca5-a4ce-702320a6c3ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Laba.cpp">
@@ -38,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="Mesh\Mesh3D.cpp">
       <Filter>Исходные файлы\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Tasks\DirectTask.cpp">
+      <Filter>Исходные файлы\Tasks</Filter>
+    </ClCompile>
+    <ClCompile Include="Tasks\InverseTask.cpp">
+      <Filter>Исходные файлы\Tasks</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +70,12 @@
     </ClInclude>
     <ClInclude Include="Structure\Cell3D.h">
       <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Tasks\DirectTask.h">
+      <Filter>Файлы заголовков\Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="Tasks\InverseTask.h">
+      <Filter>Файлы заголовков\Tasks</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

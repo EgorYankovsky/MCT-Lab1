@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Laba.cpp" />
     <ClCompile Include="Mesh\Mesh3D.cpp" />
+    <ClCompile Include="Tasks\DirectTask.cpp" />
+    <ClCompile Include="Tasks\InverseTask.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHeader.h" />
@@ -137,6 +139,8 @@
     <ClInclude Include="Structure\IncludeArea.h" />
     <ClInclude Include="Structure\InputAreaConfig.h" />
     <ClInclude Include="Structure\Point.h" />
+    <ClInclude Include="Tasks\DirectTask.h" />
+    <ClInclude Include="Tasks\InverseTask.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\Input\InputArea.txt" />
