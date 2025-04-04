@@ -50,6 +50,7 @@ void Mesh3D::generate_cells(const InputAreaConfig& iac) {
                         _cells[_cells.size() - 1].pz = include.pz;
                     }
                 }
+                _cells[_cells.size() - 1].initialise();
             }
         }
     }

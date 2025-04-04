@@ -30,6 +30,9 @@ private:
 					gauss_points[/*i * j * k*/(i * 3 + j) * 3 + k].y = kgauss_points_1dim[j];
 					gauss_points[/*i * j * k*/(i * 3 + j) * 3 + k].z = kgauss_points_1dim[k];
 				}
+		mes = 0.5 * ((points[7]->x + points[0]->x) + 
+					 (points[7]->y + points[0]->y) +
+					 (points[7]->z + points[0]->z));
 		jacobian = mes / 8.0;
 		for (size_t j = 0; j < 27; j++)
 		{
@@ -59,5 +62,6 @@ public:
 		init();
 	}
 
+	inline void initialise() { init(); };
 	Vector3D get_b(double_t x, double_t y, double_t z);
 };
