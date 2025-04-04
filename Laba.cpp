@@ -5,5 +5,8 @@ int main() {
     std::ifstream fin;
     fin >> iac;
     Mesh3D mesh(iac);
+    DirectTask dt(&mesh);
+    dt.solve();
+    dt.foutput_result();
     return 0;
 }

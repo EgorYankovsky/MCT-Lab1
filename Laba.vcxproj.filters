@@ -37,6 +37,9 @@
     <Filter Include="Исходные файлы\Tasks">
       <UniqueIdentifier>{c0c61d1a-40e9-4ca5-a4ce-702320a6c3ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\Structure">
+      <UniqueIdentifier>{8b67c894-96ee-4bd8-818d-3e2d061c32c6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Laba.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="Tasks\InverseTask.cpp">
       <Filter>Исходные файлы\Tasks</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure\Vector.cpp">
+      <Filter>Исходные файлы\Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure\Cell3D.cpp">
+      <Filter>Исходные файлы\Structure</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -77,9 +86,18 @@
     <ClInclude Include="Tasks\InverseTask.h">
       <Filter>Файлы заголовков\Tasks</Filter>
     </ClInclude>
+    <ClInclude Include="Structure\Receiver.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\Vector.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\Input\InputArea.txt">
+      <Filter>Файлы ресурсов\Data\Input</Filter>
+    </Text>
+    <Text Include="Data\Input\Receivers.txt">
       <Filter>Файлы ресурсов\Data\Input</Filter>
     </Text>
   </ItemGroup>

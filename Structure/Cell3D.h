@@ -1,9 +1,14 @@
 #pragma once
 
-#include <cmath>
-#include "Point.h"
+#define _USE_MATH_DEFINES
 
-struct Cell3D {
+#include <cmath>
+#include <math.h>
+#include <array>
+#include "Point.h"
+#include "Vector.h"
+
+class Cell3D {
 private:
 	const std::array<double_t, 3> kgauss_points_1dim = { -1.0 * sqrt(0.6), 0.0, sqrt(0.6) };
 	const std::array<double_t, 3> kgauss_weights_1dim = { 5.0 / 9.0, 8.0 / 9.0, 5.0 / 9.0 };
@@ -42,13 +47,17 @@ public:
 	double_t mes;
 	double_t jacobian;
 	double_t bx; double_t by; double_t bz;
-	Cell3D() { bx = 0; by = 0; bz = 0; points = {}; }
-	Cell3D(std::array<Point*, 8> _points) : points(_points) { bx = 0; by = 0; bz = 0; mes = 0; }
-	Cell3D(std::array<Point*, 8> _points, double_t _bx, double_t _by, double_t _bz) : 
-		points(_points), bx(_bx), by(_by), bz(_bz) {
+	double_t px; double_t py; double_t pz;
+	Cell3D() { bx = 0; by = 0; bz = 0; px = 0; py = 0; pz = 0; points = {}; gauss_points = {}; gauss_weights = {}; mes = 0.0; jacobian = 0.0; }
+	Cell3D(std::array<Point*, 8> _points) : points(_points) { bx = 0; by = 0; bz = 0; px = 0; py = 0; pz = 0; mes = 0; }
+	Cell3D(std::array<Point*, 8> _points, double_t _px, double_t _py, double_t _pz) : 
+		points(_points), px(_px), py(_py), pz(_pz) {
 		mes = (points[7]->x - points[0]->x) * 
 			  (points[7]->y - points[0]->y) * 
 			  (points[7]->z - points[0]->z);
+		bx = 0.0; by = 0.0; bz = 0.0;
 		init();
 	}
+
+	Vector3D get_b(double_t x, double_t y, double_t z);
 };

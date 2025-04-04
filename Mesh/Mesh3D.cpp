@@ -31,17 +31,6 @@ void Mesh3D::generate_cells(const InputAreaConfig& iac) {
     for (size_t k(0), m(0); k < iac.delimeters_z; ++k) {
         for (size_t j(0); j < iac.delimeters_y; ++j) {
             for (size_t i(0); i < iac.delimeters_x; ++i) {
-                //std::array<size_t, 8> points_int_refs{
-                //     k      * nxy +  j      * nx + i,
-                //     k      * nxy +  j      * nx + i + 1,
-                //     k      * nxy + (j + 1) * nx + i,
-                //     k      * nxy + (j + 1) * nx + i + 1,
-                //    (k + 1) * nxy +  j      * nx + i,
-                //    (k + 1) * nxy +  j      * nx + i + 1,
-                //    (k + 1) * nxy + (j + 1) * nx + i,
-                //    (k + 1) * nxy + (j + 1) * nx + i + 1,
-                //};
-
                 std::array<Point*, 8> points_int_refs{
                      &_points[k * nxy + j * nx + i],
                      &_points[k * nxy + j * nx + i + 1],
@@ -52,17 +41,23 @@ void Mesh3D::generate_cells(const InputAreaConfig& iac) {
                      &_points[(k + 1) * nxy + (j + 1) * nx + i],
                      &_points[(k + 1) * nxy + (j + 1) * nx + i + 1],
                 };
-
-                double_t bx_i(0), by_i(0), bz_i(0);
+                _cells.emplace_back(points_int_refs);
+                double_t px_i(0), py_i(0), pz_i(0);
                 for (const auto& include : iac.includes) {
                     if (is_cell_inside_include(points_int_refs, include)) {
-                        bx_i = include.bx;
-                        by_i = include.by;
-                        bz_i = include.bz;
+                        _cells[_cells.size() - 1].px = include.px;
+                        _cells[_cells.size() - 1].py = include.py;
+                        _cells[_cells.size() - 1].pz = include.pz;
                     }
                 }
-                _cells.emplace_back(points_int_refs, bx_i, by_i, bz_i);
             }
         }
     }
+}
+
+Vector3D Mesh3D::get_b_at(double_t x, double_t y, double_t z) {
+    Vector3D res;
+    for (auto& cell : _cells)
+        res += cell.get_b(x, y, z);
+    return res;
 }

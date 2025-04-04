@@ -38,7 +38,7 @@ struct InputAreaConfig {
 				is >> iac.includes[i].x0 >> iac.includes[i].x1 >>
 				iac.includes[i].y0 >> iac.includes[i].y1 >>
 				iac.includes[i].z0 >> iac.includes[i].z1 >>
-				iac.includes[i].bx >> iac.includes[i].by >> iac.includes[i].bz;
+				iac.includes[i].px >> iac.includes[i].py >> iac.includes[i].pz;
 			is.close();
 		}
 		catch (const std::runtime_error& rterr) {

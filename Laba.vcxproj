@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Laba.cpp" />
     <ClCompile Include="Mesh\Mesh3D.cpp" />
+    <ClCompile Include="Structure\Cell3D.cpp" />
+    <ClCompile Include="Structure\Vector.cpp" />
     <ClCompile Include="Tasks\DirectTask.cpp" />
     <ClCompile Include="Tasks\InverseTask.cpp" />
   </ItemGroup>
@@ -139,11 +141,14 @@
     <ClInclude Include="Structure\IncludeArea.h" />
     <ClInclude Include="Structure\InputAreaConfig.h" />
     <ClInclude Include="Structure\Point.h" />
+    <ClInclude Include="Structure\Receiver.h" />
+    <ClInclude Include="Structure\Vector.h" />
     <ClInclude Include="Tasks\DirectTask.h" />
     <ClInclude Include="Tasks\InverseTask.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\Input\InputArea.txt" />
+    <Text Include="Data\Input\Receivers.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

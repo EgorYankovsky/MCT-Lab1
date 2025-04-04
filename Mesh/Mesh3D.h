@@ -5,6 +5,7 @@
 #include "../Structure/InputAreaConfig.h"
 #include "../Structure/Point.h"
 #include "../Structure/Cell3D.h"
+#include "../Structure/Vector.h"
 
 class Mesh3D {
 private:
@@ -43,4 +44,6 @@ public:
 
 	void generate_points(const InputAreaConfig& iac);
 	void generate_cells(const InputAreaConfig& iac);
+
+	Vector3D get_b_at(double_t x, double_t y, double_t z);
 };
