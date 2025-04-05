@@ -46,4 +46,5 @@ public:
 	void generate_cells(const InputAreaConfig& iac);
 
 	Vector3D get_b_at(double_t x, double_t y, double_t z);
+	inline size_t get_cells_amount() { return _cells.size(); }
 };

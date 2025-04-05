@@ -136,8 +136,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHeader.h" />
+    <ClInclude Include="MathObjects\Matrix.h" />
+    <ClInclude Include="MathObjects\Vector.h" />
     <ClInclude Include="Mesh\Mesh3D.h" />
     <ClInclude Include="Structure\Cell3D.h" />
+    <ClInclude Include="Structure\ConfigurationInverse.h" />
     <ClInclude Include="Structure\IncludeArea.h" />
     <ClInclude Include="Structure\InputAreaConfig.h" />
     <ClInclude Include="Structure\Point.h" />
@@ -149,6 +152,12 @@
   <ItemGroup>
     <Text Include="Data\Input\InputArea.txt" />
     <Text Include="Data\Input\Receivers.txt" />
+    <Text Include="Data\Output\DirectAnswer.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\Pictures\Bx.png" />
+    <Image Include="Data\Pictures\By.png" />
+    <Image Include="Data\Pictures\Bz.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

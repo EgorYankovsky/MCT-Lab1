@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-DATA_PATH = "..\\Data\\Output\\DirectAnswer.txt"
-IMAGE_PATH = "..\\Data\\Pictures\\"
+DATA_PATH = "Data\\Output\\DirectAnswer.txt" # to debug: ..\\Data\\Output\\DirectAnswer.txt
+IMAGE_PATH = "Data\\Pictures\\" # to debug: ..\\Data\\Pictures\\
 
 class Point:
     def __init__(self, _x : float, _y : float, _z : float):

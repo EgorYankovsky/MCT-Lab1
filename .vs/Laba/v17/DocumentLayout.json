@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Mesh\\Mesh3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\ConfigurationInverse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\ConfigurationInverse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\InputAreaConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Tasks\\InverseTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Tasks\\InverseTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\Cell3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:MathObjects\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:MathObjects\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Tasks\\DirectTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Tasks\\DirectTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Structure\\Cell3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1152F6F4-0895-4E65-81F4-9F478DF92544}|Laba.vcxproj|solutionrelative:Mesh\\Mesh3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 79,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cell3D.cpp",
-              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.cpp",
-              "RelativeDocumentMoniker": "Structure\\Cell3D.cpp",
-              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.cpp",
-              "RelativeToolTip": "Structure\\Cell3D.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T02:27:02.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cell3D.h",
-              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h",
-              "RelativeDocumentMoniker": "Structure\\Cell3D.h",
-              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\Cell3D.h",
-              "RelativeToolTip": "Structure\\Cell3D.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "InputAreaConfig.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h",
+              "RelativeDocumentMoniker": "Structure\\InputAreaConfig.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\InputAreaConfig.h",
+              "RelativeToolTip": "Structure\\InputAreaConfig.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T02:10:27.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DirectTask.cpp",
-              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.cpp",
-              "RelativeDocumentMoniker": "Tasks\\DirectTask.cpp",
-              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.cpp",
-              "RelativeToolTip": "Tasks\\DirectTask.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T12:37:43.479Z",
+              "WhenOpened": "2025-04-05T10:13:45.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Mesh3D.cpp",
-              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp",
-              "RelativeDocumentMoniker": "Mesh\\Mesh3D.cpp",
-              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.cpp",
-              "RelativeToolTip": "Mesh\\Mesh3D.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Title": "ConfigurationInverse.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\ConfigurationInverse.h",
+              "RelativeDocumentMoniker": "Structure\\ConfigurationInverse.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Structure\\ConfigurationInverse.h",
+              "RelativeToolTip": "Structure\\ConfigurationInverse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T10:13:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InverseTask.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.cpp",
+              "RelativeDocumentMoniker": "Tasks\\InverseTask.cpp",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.cpp",
+              "RelativeToolTip": "Tasks\\InverseTask.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T02:12:33.076Z",
+              "WhenOpened": "2025-04-05T09:40:20.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "InverseTask.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.h",
+              "RelativeDocumentMoniker": "Tasks\\InverseTask.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\InverseTask.h",
+              "RelativeToolTip": "Tasks\\InverseTask.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T09:25:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Vector.h",
+              "RelativeDocumentMoniker": "MathObjects\\Vector.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Vector.h",
+              "RelativeToolTip": "MathObjects\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T09:25:00.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Matrix.h",
+              "RelativeDocumentMoniker": "MathObjects\\Matrix.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\MathObjects\\Matrix.h",
+              "RelativeToolTip": "MathObjects\\Matrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T09:24:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DirectTask.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.cpp",
+              "RelativeDocumentMoniker": "Tasks\\DirectTask.cpp",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.cpp",
+              "RelativeToolTip": "Tasks\\DirectTask.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T07:21:11.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectTask.h",
+              "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.h",
+              "RelativeDocumentMoniker": "Tasks\\DirectTask.h",
+              "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Tasks\\DirectTask.h",
+              "RelativeToolTip": "Tasks\\DirectTask.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T07:10:51.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Mesh3D.h",
               "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h",
               "RelativeDocumentMoniker": "Mesh\\Mesh3D.h",
               "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Mesh\\Mesh3D.h",
               "RelativeToolTip": "Mesh\\Mesh3D.h",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-04T01:29:40.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Laba.cpp",
               "DocumentMoniker": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp",
               "RelativeDocumentMoniker": "Laba.cpp",
               "ToolTip": "D:\\CodeRepos\\Maga_dir\\2sem\\MCT\\Laba\\Laba.cpp",
               "RelativeToolTip": "Laba.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-04T01:22:39.384Z",
               "EditorCaption": ""

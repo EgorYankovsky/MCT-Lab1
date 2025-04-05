@@ -40,6 +40,12 @@
     <Filter Include="Исходные файлы\Structure">
       <UniqueIdentifier>{8b67c894-96ee-4bd8-818d-3e2d061c32c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Файлы ресурсов\Data\Pictures">
+      <UniqueIdentifier>{9601239b-5ba8-45b0-81a2-43f6f4f98483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MathObjects">
+      <UniqueIdentifier>{994f232d-e192-497b-9664-fcbda77667e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Laba.cpp">
@@ -92,6 +98,15 @@
     <ClInclude Include="Structure\Vector.h">
       <Filter>Файлы заголовков\Structure</Filter>
     </ClInclude>
+    <ClInclude Include="MathObjects\Matrix.h">
+      <Filter>Файлы заголовков\MathObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="MathObjects\Vector.h">
+      <Filter>Файлы заголовков\MathObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Structure\ConfigurationInverse.h">
+      <Filter>Файлы заголовков\Structure</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\Input\InputArea.txt">
@@ -100,5 +115,19 @@
     <Text Include="Data\Input\Receivers.txt">
       <Filter>Файлы ресурсов\Data\Input</Filter>
     </Text>
+    <Text Include="Data\Output\DirectAnswer.txt">
+      <Filter>Файлы ресурсов\Data\Output</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\Pictures\Bx.png">
+      <Filter>Файлы ресурсов\Data\Pictures</Filter>
+    </Image>
+    <Image Include="Data\Pictures\By.png">
+      <Filter>Файлы ресурсов\Data\Pictures</Filter>
+    </Image>
+    <Image Include="Data\Pictures\Bz.png">
+      <Filter>Файлы ресурсов\Data\Pictures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
